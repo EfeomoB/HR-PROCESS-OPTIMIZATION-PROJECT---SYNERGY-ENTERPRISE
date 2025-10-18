@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="Synergy Logo" src="https://github.com/user-attachments/assets/d587ab62-009c-49e8-8048-4ee2a8ca0170" />
+
 # 💼 HR Process Optimization Project – Synergy Enterprises
 
 **Business Case by Efeomo Asekhame**  
